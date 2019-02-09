@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire"
+github "radex/SwiftyUserDefaults"
+github "SwiftyBeaver/SwiftyBeaver"
+github "ReSwift/ReSwift"
+

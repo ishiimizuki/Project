@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.8.1"
+github "ReSwift/ReSwift" "4.0.1"
+github "SwiftyBeaver/SwiftyBeaver" "1.6.1"
+github "radex/SwiftyUserDefaults" "3.0.1"
